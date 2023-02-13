@@ -1,0 +1,60 @@
+body {
+    background-color: #181719;
+    color: white;
+}
+
+button {
+    border: solid white 1px;
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    padding: 0.4em 0.5em;
+    font-family: 'Crimson Pro', serif;
+}
+
+.menu ul {
+    list-style: none;
+    font-family: Montserrat, sans-serif;
+}
+
+.information h1 {
+    font-family: Lora, serif;
+}
+
+.information p {
+    font-family: Montserrat, sans-serif;
+}
+
+.designer-card {
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.designer-name-role {
+    font-family: Montserrat, sans-serif;
+}
+
+.designer-role {
+    color: #828282;
+}
+
+.designer h2 {
+    font-family: Lora, serif;
+}
+
+.aliza-image {
+    border-radius: 50%;
+}
+
+footer {
+    font-family: Montserrat, sans-serif;
+    text-align: center;
+    color: #a9a9a9;
+}
+
+footer a {
+    color: #a9a9a9;
+}
+
+footer a:hover {
+    color: red;
+}
